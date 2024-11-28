@@ -404,5 +404,5 @@ Fast-forward
 ![img_26.png](IMG/img_26.png)
 
  Итоговое изображение:
-![img_31.jpg](IMG/img_31.jpg)
+![img_31.png](IMG/img_31.png)
 Ссылка на итоговый network график: https://github.com/temagraf/netgit2/network
