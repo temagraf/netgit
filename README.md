@@ -403,4 +403,6 @@ Fast-forward
 
 ![img_26.png](IMG/img_26.png)
 
-Ссылка на итоговый network график: https://github.com/temagraf/netgit/network
+ Итоговое изображение:
+![img_31.jpg](IMG/img_31.jpg)
+Ссылка на итоговый network график: https://github.com/temagraf/netgit2/network
